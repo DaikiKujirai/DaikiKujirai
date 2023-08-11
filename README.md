@@ -14,10 +14,3 @@
 
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=20&i=ruby,rails,ts,js,vue,nuxtjs,html,css,docker,mysql,tailwind,vite,aws,git,github,githubactions,idea,neovim" />
-
-## 📈 Stats
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaikiKujirai&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=DaikiKujirai&theme=onedark&show_icons=ture" />
-</p>
